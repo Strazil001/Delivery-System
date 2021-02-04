@@ -1,0 +1,10 @@
+C:\Users\s-vdv\source\repos\Van-de-Vyver-Steve-TussentijdsExamen-Opdracht2\Van-de-Vyver-Steve-TussentijdsExamen-Opdracht2\bin\Debug\Van-de-Vyver-Steve-TussentijdsExamen-Opdracht2.exe.config
+C:\Users\s-vdv\source\repos\Van-de-Vyver-Steve-TussentijdsExamen-Opdracht2\Van-de-Vyver-Steve-TussentijdsExamen-Opdracht2\bin\Debug\Van-de-Vyver-Steve-TussentijdsExamen-Opdracht2.exe
+C:\Users\s-vdv\source\repos\Van-de-Vyver-Steve-TussentijdsExamen-Opdracht2\Van-de-Vyver-Steve-TussentijdsExamen-Opdracht2\bin\Debug\Van-de-Vyver-Steve-TussentijdsExamen-Opdracht2.pdb
+C:\Users\s-vdv\source\repos\Van-de-Vyver-Steve-TussentijdsExamen-Opdracht2\Van-de-Vyver-Steve-TussentijdsExamen-Opdracht2\obj\Debug\Van-de-Vyver-Steve-TussentijdsExamen-Opdracht2.csprojAssemblyReference.cache
+C:\Users\s-vdv\source\repos\Van-de-Vyver-Steve-TussentijdsExamen-Opdracht2\Van-de-Vyver-Steve-TussentijdsExamen-Opdracht2\obj\Debug\Van_de_Vyver_Steve_TussentijdsExamen_Opdracht2.Form1.resources
+C:\Users\s-vdv\source\repos\Van-de-Vyver-Steve-TussentijdsExamen-Opdracht2\Van-de-Vyver-Steve-TussentijdsExamen-Opdracht2\obj\Debug\Van_de_Vyver_Steve_TussentijdsExamen_Opdracht2.Properties.Resources.resources
+C:\Users\s-vdv\source\repos\Van-de-Vyver-Steve-TussentijdsExamen-Opdracht2\Van-de-Vyver-Steve-TussentijdsExamen-Opdracht2\obj\Debug\Van-de-Vyver-Steve-TussentijdsExamen-Opdracht2.csproj.GenerateResource.cache
+C:\Users\s-vdv\source\repos\Van-de-Vyver-Steve-TussentijdsExamen-Opdracht2\Van-de-Vyver-Steve-TussentijdsExamen-Opdracht2\obj\Debug\Van-de-Vyver-Steve-TussentijdsExamen-Opdracht2.csproj.CoreCompileInputs.cache
+C:\Users\s-vdv\source\repos\Van-de-Vyver-Steve-TussentijdsExamen-Opdracht2\Van-de-Vyver-Steve-TussentijdsExamen-Opdracht2\obj\Debug\Van-de-Vyver-Steve-TussentijdsExamen-Opdracht2.exe
+C:\Users\s-vdv\source\repos\Van-de-Vyver-Steve-TussentijdsExamen-Opdracht2\Van-de-Vyver-Steve-TussentijdsExamen-Opdracht2\obj\Debug\Van-de-Vyver-Steve-TussentijdsExamen-Opdracht2.pdb
